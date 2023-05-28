@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+      ~     Tanggal Pengerjaan : 15/05/2023
+      ~     Nim : 10120249
+      ~     Nama : Stanislaus Katska Alvin Parulian Sitanggang
+      ~     Kelas : IF-6
+      -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/page_3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Banyak berupa Galeri"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Bisa melihat berupa foto dan memutar video favorit"
+        android:textColor="@color/red"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:text="yang Alvin sangat Sukai"
+        android:textColor="@color/black"
+        android:textSize="14sp"/>
+
+</LinearLayout>

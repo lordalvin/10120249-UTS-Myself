@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+      ~     Tanggal Pengerjaan : 15/05/2023
+      ~     Nim : 10120249
+      ~     Nama : Stanislaus Katska Alvin Parulian Sitanggang
+      ~     Kelas : IF-6
+      -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/musiclist"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:background="@color/red"
+        android:text="Music List"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        />
+
+</LinearLayout>
